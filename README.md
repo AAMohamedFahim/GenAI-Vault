@@ -23,6 +23,13 @@ GenAI Vault is a collection of practical generative AI projects. Our goal is to 
 6. Style Transfer
 7. And more as we expand!...
 
+## Color Reference
+
+| Project             | Discription                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Voice Assistant | voice assistant with whisper model|
+
+
 ## Technologies Used
 
 Our projects utilize various technologies commonly used in generative AI, including:
