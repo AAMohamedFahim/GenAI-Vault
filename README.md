@@ -23,7 +23,7 @@ GenAI Vault is a collection of practical generative AI projects. Our goal is to 
 6. Style Transfer
 7. And more as we expand!...
 
-## Color Reference
+## Projects List
 
 | Project             | Discription                                                                |
 | ----------------- | ------------------------------------------------------------------ |
