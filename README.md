@@ -15,12 +15,12 @@ GenAI Vault is a collection of practical generative AI projects. Our goal is to 
 
 ## Project Categories
 
-1. Text Generation
+1. Voice Assistant
 2. Image Synthesis
-3. Music and Audio Generation
+3. Text Generation
 4. Code Generation
 5. Data Augmentation
-6. Style Transfer
+6. Music and Audio Generation
 7. And more as we expand!...
 
 ## Projects List
