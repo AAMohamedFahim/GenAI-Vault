@@ -27,7 +27,7 @@ GenAI Vault is a collection of practical generative AI projects. Our goal is to 
 
 | S.No | Project                               | Description                                                                 |
 | ---- | ------------------------------------- | --------------------------------------------------------------------------- |
-| 1    | [Voice Assistant with Whisper and GPT-4](./Voice-Assistant-Whisper-Model) | A smart voice assistant that transcribes and chats like a pro using Whisper and GPT-4o. |
+| 1    | [Voice Assistant with Whisper and GPT-4o](./Voice-Assistant-Whisper-Model) | A smart voice assistant that transcribes and chats like a pro using Whisper and GPT-4o. |
 
 
 ## Technologies Used
